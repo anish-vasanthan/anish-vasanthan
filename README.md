@@ -67,15 +67,6 @@ through multiple approaches, dry runs, and complexity analysis.
 
 ---
 
-## 📈 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anish-vasanthan&show_icons=true&hide_border=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-vasanthan&layout=compact&hide_border=true&theme=transparent" height="160"/>
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 **Java & DSA** → **Full-Stack Development** → **AI** → **AWS**
